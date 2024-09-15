@@ -1,0 +1,41 @@
+{
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "qa": "Q/A",
+    "login": "Login",
+    "menu":"Menu",
+    "aboutApp": {
+      "title": "About the Grievance Management System",
+      "welcome": "Welcome to the Grievance Management System, a platform designed to streamline the process of lodging and addressing grievances within an organization or institution. Whether you're a student, employee, or a stakeholder, this system offers an easy and transparent way to report issues, track their resolution status, and ensure your concerns are properly addressed.",
+      "userExperience": "Our system is built to provide an intuitive user experience. With just a few clicks, you can submit a grievance by filling out a simple form that captures the nature of your issue. Once submitted, the system assigns it to the appropriate department or personnel for resolution. You will receive regular updates about the status of your grievance, ensuring full transparency at every stage.",
+      "howToUse": "How to Use the App",
+      "steps": {
+          "login": "Login or Register: If you're a new user, start by creating an account with your email and password. Returning users can simply log in with their credentials.",
+          "submit": "Submit a Grievance: On the dashboard, click on 'Submit New Grievance' and fill out the form with details such as the issue type, description, and any supporting documents. Once completed, click 'Submit.'",
+          "track": "Track Your Grievance: After submission, you can track the status of your grievance in real time. The system will notify you as your grievance moves from one stage to another until it's resolved.",
+          "feedback": "Provide Feedback: After the issue is resolved, you will have the opportunity to provide feedback about the resolution process to help us improve our services."
+      },
+      "whyUseful": "Why This System Is Useful",
+      "usefulness": "The Grievance Management System ensures that every concern, no matter how small or large, is properly recorded and attended to. By digitizing the grievance process, we ensure that no complaints are lost or forgotten, and that all grievances are handled in a timely and professional manner. It reduces paperwork, increases accountability, and provides an effective way to resolve issues.",
+      "transparency": "Transparency is key to building trust between users and the organization. With the ability to track your grievances, you can rest assured that your concerns are being taken seriously, and that action is being taken. Whether it's workplace issues, academic grievances, or any other kind of problem, our system simplifies the process for you."
+  },
+  "infoCards": {
+    "login": {
+      "title": "Login",
+      "description": "Access your account and manage your grievances.",
+      "buttonText": "Go to Login"
+    },
+    "aboutUs": {
+      "title": "About Us",
+      "description": "Learn more about how our system can help resolve your concerns.",
+      "buttonText": "Learn More"
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "description": "Get in touch with our support team for any assistance.",
+      "buttonText": "Contact Support"
+    }
+  }
+  }
+  
